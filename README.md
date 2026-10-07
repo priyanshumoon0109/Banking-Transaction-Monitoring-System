@@ -44,3 +44,7 @@ All data is **synthetic** and generated for demonstration. The `risk_flag` field
 
 ## Suggested resume bullet (only after you have run and understood it)
 - Built a banking transaction analytics portfolio project using SQL, Python (Pandas), and Power BI to analyze 10,000 synthetic transactions, track channel and monthly KPIs, and review rule-based risk flags.
+
+## Validation & Improvements
+- Reviewed dashboard visuals for accuracy and readability.
+- Corrected transaction-status label formatting to display exact counts for low-volume categories instead of misleading rounded values (e.g., 489 instead of 0K).
